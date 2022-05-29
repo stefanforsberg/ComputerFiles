@@ -1,2 +1,2 @@
 ## Germany route:
-Bremerhaven -> Flensburg -> Hamburg -> Brokstedt -> Friedrichskoog
+Hamburg-> Hanover -> Berlin-> Dresden -> Neubrandenburg
